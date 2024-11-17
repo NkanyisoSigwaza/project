@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Absa Business Cards</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+        section {
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+        }
+        .card-category {
+            margin-bottom: 30px;
+        }
+        .card-info {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .card-info h3 {
+            margin-top: 0;
+        }
+        .card-info p {
+            margin: 5px 0;
+        }
+        .card-info ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .card-info li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Absa Business Cards Overview</h1>
+    </header>
+    
+    <section>
+        <div class="card-category">
+            <h2>1. Visa Corporate and Purchasing Cards</h2>
+            
+            <!-- Visa Corporate Card -->
+            <div class="card-info">
+                <h3>Visa Corporate Card</h3>
+                <p><strong>Benefits:</strong></p>
+                <ul>
+                    <li>Customizable spending limits for better control.</li>
+                    <li>Detailed expense reports for reconciliation.</li>
+                    <li>Reduces reliance on petty cash, enhancing security.</li>
+                </ul>
+                <p><strong>Fees:</strong></p>
+                <ul>
+                    <li>Monthly Fee: R100 per card (subject to change based on usage).</li>
+                    <li>Transaction Costs: Standard POS purchase fees apply.</li>
+                </ul>
+                <p><strong>Limits:</strong></p>
+                <ul>
+                    <li>Spending limits set by the organization.</li>
+                </ul>
+                <p><strong>Qualifying Criteria:</strong></p>
+                <ul>
+                    <li>Medium to large enterprises.</li>
+                    <li>Corporate banking account with Absa required.</li>
+                    <li>Must meet Absa’s corporate credit risk assessment.</li>
+                </ul>
+                <p><strong>Additional Notes:</strong> A versatile card for organizations with multiple employees requiring controlled expense management.</p>
+            </div>
+
+            <!-- Visa Purchasing Card -->
+            <div class="card-info">
+                <h3>Visa Purchasing Card</h3>
+                <p><strong>Benefits:</strong></p>
+                <ul>
+                    <li>Streamlines procurement, reduces paperwork.</li>
+                    <li>Offers detailed transaction-level reporting.</li>
+                </ul>
+                <p><strong>Fees:</strong></p>
+                <ul>
+                    <li>Monthly Fee: R100 per card.</li>
+                </ul>
+                <p><strong>Limits:</strong></p>
+                <ul>
+                    <li>Tailored spending limits based on purchasing needs.</li>
+                </ul>
+                <p><strong>Qualifying Criteria:</strong></p>
+                <ul>
+                    <li>Aimed at businesses requiring streamlined purchasing processes.</li>
+                    <li>Corporate banking account with Absa required.</li>
+                </ul>
+                <p><strong>Additional Notes:</strong> Ideal for businesses with frequent procurement needs.</p>
+            </div>
+        </div>
+        
+        <div class="card-category">
+            <h2>2. Business Credit Cards</h2>
+
+            <!-- Business Revolve Credit Card -->
+            <div class="card-info">
+                <h3>Business Revolve Credit Card</h3>
+                <p><strong>Benefits:</strong></p>
+                <ul>
+                    <li>Revolving credit for short-term cash flow needs.</li>
+                    <li>Flexible repayment terms based on cash flow.</li>
+                    <li>Statements with categorized expenses for tracking.</li>
+                </ul>
+                <p><strong>Fees:</strong></p>
+                <ul>
+                    <li>Annual Fee: R750 per card.</li>
+                    <li>Interest Rate: Prime + 2%.</li>
+                </ul>
+                <p><strong>Limits:</strong></p>
+                <ul>
+                    <li>Customized based on business financial performance.</li>
+                </ul>
+                <p><strong>Qualifying Criteria:</strong></p>
+                <ul>
+                    <li>Businesses requiring access to short-term credit.</li>
+                    <li>Requires financial documentation and proof of income.</li>
+                </ul>
+                <p><strong>Additional Notes:</strong> Suitable for businesses that need ongoing credit without reapplying for loans.</p>
+            </div>
+
+            <!-- Business Silver Card -->
+            <div class="card-info">
+                <h3>Business Silver Card</h3>
+                <p><strong>Benefits:</strong></p>
+                <ul>
+                    <li>Lower credit limit, ideal for small businesses.</li>
+                    <li>Helps businesses establish a credit record.</li>
+                    <li>Simplified approval process for startups.</li>
+                </ul>
+                <p><strong>Fees:</strong></p>
+                <ul>
+                    <li>Annual Fee: R300 per card.</li>
+                    <li>Transaction Fee: R5 per purchase.</li>
+                </ul>
+                <p><strong>Limits:</strong></p>
+                <ul>
+                    <li>Credit limit ranges from R5,000 to R25,000.</li>
+                </ul>
+                <p><strong>Qualifying Criteria:</strong></p>
+                <ul>
+                    <li>Small businesses or startups.</li>
+                    <li>Requires proof of business registration and income.</li>
+                </ul>
+                <p><strong>Additional Notes:</strong> A great option for new businesses seeking a basic credit facility.</p>
+            </div>
+
+            <!-- Business Gold Card -->
+            <div class="card-info">
+                <h3>Business Gold Card</h3>
+                <p><strong>Benefits:</strong></p>
+                <ul>
+                    <li>Higher credit limits and premium benefits.</li>
+                    <li>Travel insurance for business trips.</li>
+                    <li>Premium account management and tailored reports.</li>
+                </ul>
+                <p><strong>Fees:</strong></p>
+                <ul>
+                    <li>Annual Fee: R1,200 per card.</li>
+                    <li>Interest Rate: Prime + 1%.</li>
+                </ul>
+                <p><strong>Limits:</strong></p>
+                <ul>
+                    <li>Credit limit ranges from R25,000 to R250,000.</li>
+                </ul>
+                <p><strong>Qualifying Criteria:</strong></p>
+                <ul>
+                    <li>For medium to large businesses with higher turnover.</li>
+                    <li>Requires documentation for financial performance.</li>
+                </ul>
+                <p><strong>Additional Notes:</strong> Best for businesses with frequent large transactions.</p>
+            </div>
+        </div>
+        
+        <div class="card-category">
+            <h2>3. Virtual Pay Cards</h2>
+
+            <!-- Virtual Card -->
+            <div class="card-info">
+                <h3>Virtual Card</h3>
+                <p><strong>Benefits:</strong></p>
+                <ul>
+                    <li>Highly secure with Virtual Card Numbers (VCNs).</li>
+                    <li>Ideal for online payments and e-commerce.</li>
+                    <li>Reduces reliance on physical cards for transactions.</li>
+                </ul>
+                <p><strong>Fees:</strong></p>
+                <ul>
+                    <li>Monthly Fee: R50 per card.</li>
+                    <li>Transaction Fee: R2 per transaction.</li>
+                </ul>
+                <p><strong>Limits:</strong></p>
+                <ul>
+                    <li>Customizable based on purchasing needs.</li>
+                </ul>
+                <p><strong>Qualifying Criteria:</strong></p>
+                <ul>
+                    <li>Requires an active Absa business account.</li>
+                    <li>Must use Absa’s integrated payment systems.</li>
+                </ul>
+                <p><strong>Additional Notes:</strong> Ideal for businesses prioritizing online security.</p>
+            </div>
+        </div>
+        
+        <div class="card-category">
+            <h2>4. Visa Procurement Cards</h2>
+
+            <!-- Travel Lodge Card -->
+            <div class="card-info">
+                <h3>Travel Lodge Card</h3>
+                <p><strong>Benefits:</strong></p>
+                <ul>
+                    <li>For travel-related expenses, including accommodation and transport.</li>
+                    <li>Integrates with corporate travel programs.</li>
+                </ul>
+                <p><strong>Fees:</strong></p>
+                <ul>
+                    <li>Monthly Fee: R100 per card.</li>
+                </ul>
+                <p><strong>Limits:</strong></p>
+                <ul>
+                    <li>Tailored based on travel needs.</li>
+                </ul>
+                <p><strong>Qualifying Criteria:</strong></p>
+                <ul>
+                    <li>Requires travel bookings via Absa’s travel partners.</li>
+                </ul>
+                <p><strong>Additional Notes:</strong> Ideal for businesses with frequent travel needs.</p>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
